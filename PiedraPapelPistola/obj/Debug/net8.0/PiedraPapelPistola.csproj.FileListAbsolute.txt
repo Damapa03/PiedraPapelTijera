@@ -1,0 +1,35 @@
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.exe
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.deps.json
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.runtimeconfig.json
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.dll
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.pdb
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfoInputs.cache
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfo.cs
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.csproj.CoreCompileInputs.cache
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.dll
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\refint\PiedraPapelPistola.dll
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.pdb
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.genruntimeconfig.cache
+C:\Users\damap\Mi unidad (dmarpac979@g.educaand.es)\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\ref\PiedraPapelPistola.dll
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfoInputs.cache
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfo.cs
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.dll
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\refint\PiedraPapelPistola.dll
+G:\Mi unidad\PSP\1ºTrimestre\C#\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.pdb
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.exe
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.deps.json
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.runtimeconfig.json
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.dll
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\bin\Debug\net8.0\PiedraPapelPistola.pdb
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfoInputs.cache
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.AssemblyInfo.cs
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.csproj.CoreCompileInputs.cache
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.dll
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\refint\PiedraPapelPistola.dll
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.pdb
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\PiedraPapelPistola.genruntimeconfig.cache
+C:\Users\damap\OneDrive\Escritorio\PiedraPapelPistola\PiedraPapelPistola\PiedraPapelPistola\obj\Debug\net8.0\ref\PiedraPapelPistola.dll
