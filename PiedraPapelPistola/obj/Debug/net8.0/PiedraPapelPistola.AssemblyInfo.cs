@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiedraPapelPistola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7890c061db7e56e7352e5e5c947cf250c42022")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiedraPapelPistola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiedraPapelPistola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

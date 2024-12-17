@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\damap\\.nuget\\packages\\": {}
+    "C:\\Users\\damap\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damap\\OneDrive\\Escritorio\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola.csproj",
+      "projectUniqueName": "C:\\Users\\damap\\Mi unidad (dmarpac979@g.educaand.es)\\PSP\\1ºTrimestre\\C#\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola.csproj",
       "projectName": "PiedraPapelPistola",
-      "projectPath": "C:\\Users\\damap\\OneDrive\\Escritorio\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola.csproj",
+      "projectPath": "C:\\Users\\damap\\Mi unidad (dmarpac979@g.educaand.es)\\PSP\\1ºTrimestre\\C#\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola.csproj",
       "packagesPath": "C:\\Users\\damap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damap\\OneDrive\\Escritorio\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\obj\\",
+      "outputPath": "C:\\Users\\damap\\Mi unidad (dmarpac979@g.educaand.es)\\PSP\\1ºTrimestre\\C#\\PiedraPapelPistola\\PiedraPapelPistola\\PiedraPapelPistola\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\damap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\damap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

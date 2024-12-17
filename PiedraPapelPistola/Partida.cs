@@ -12,8 +12,7 @@ public class Partida
 
     public static void Game()
     {
-        int ronda = 1;
-        while (puntajeJugador1 < 3 && puntajeJugador2 < 3 && Math.Abs(puntajeJugador1 - puntajeJugador2) < 2)
+        for (int ronda = 1; ronda <= 3; ronda++)
         {
             Console.WriteLine($"\nRonda {ronda}:");
 
@@ -27,8 +26,6 @@ public class Partida
             hilo2.Join();
 
             DeterminarGanadorRonda();
-
-            ronda++;
         }
 
         DeterminarGanadorFinal();

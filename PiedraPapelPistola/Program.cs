@@ -4,7 +4,7 @@ using PiedraPapelPistola;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         Boolean flag = true;
         while (flag)
@@ -14,10 +14,10 @@ class Program
             switch (num)
             {
                 case 1:
-                    Torneo.Bracket();
+                    Partida.Game();
                     break;
                 case 2:
-                    Partida.Game();
+                    Torneo.Bracket();
                     break;
                 case 3:
                     flag = false;
